@@ -43,7 +43,7 @@ Heroku
 * MongoDB
 * Mongoose
 
-![ScreenShots](/Users/ciellecarlton/Desktop/comptrolla.png)
+![ScreenShots](./comptrolla.png)
 
 ## Contributing
 
