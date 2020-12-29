@@ -43,6 +43,8 @@ Heroku
 * MongoDB
 * Mongoose
 
+![ScreenShots](/Users/ciellecarlton/Desktop/Screen Shot 2020-12-29 at 1.23.03 PM.png)
+
 ## Contributing
 
  starter code (starter HTML and CSS code)
