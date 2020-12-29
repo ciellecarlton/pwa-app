@@ -1,9 +1,9 @@
  
-# PWA ~Comptrolla~ App 
+# PWA ~ Comptrolla ~ App 
 Check out the App here!:
 ## Table of Contents
 
-- [ PWA ~Comptrolla~ App ]
+- [ PWA ~ Comptrolla ~ App ]
 - (#pwa-comptrolla-app)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
