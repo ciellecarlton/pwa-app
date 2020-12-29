@@ -1,10 +1,10 @@
  
-# PWA Online-Offline-Budget-Tracker
- 
+# PWA ~Comptrolla~ App 
 Check out the App here!:
 ## Table of Contents
 
-- [PWA Online-Offline-Budget-Tracker](#pwa-online-offline-budget-tracker)
+- [ PWA ~Comptrolla~ App ]
+- (#pwa-comptrolla-app)
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Deployment](#deployment)
@@ -24,7 +24,7 @@ When brought back online, the offline entries should be added to tracker.
 
 ## Deployment
 
-
+Heroku
 
 ## Built With
 
