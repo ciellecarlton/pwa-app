@@ -10,7 +10,7 @@ const PORT = 3000;
 
 const app = express();
 
-
+// const MongoStore = require("connect-mongo")(expressSession);
 db().then((connection) => {
   app.use(
     expressSession({
@@ -50,8 +50,9 @@ app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "./client/build/index.html"));
 });
 
-app.listen(process.env.PORT || 3000, () => {
+app.listen(process.env.PORT || PORT, () => {
   console.log(`App running on port ${PORT}!`);
+
 });
 
 
