@@ -38,7 +38,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URL || "mongodb://localhost/pwa-app", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/pwa-app", {
   useNewUrlParser: true,
   useFindAndModify: false,
 });
